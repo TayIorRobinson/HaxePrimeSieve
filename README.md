@@ -1,2 +1,5 @@
 # HaxePrimeSieve
-Port of @davepl's prime sieve to Have.
+
+
+https://robins.one/notes/haxe-speed-comparison.html
+
