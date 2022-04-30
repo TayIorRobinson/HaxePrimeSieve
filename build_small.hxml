@@ -1,0 +1,9 @@
+--class-path src
+--main Main
+--each
+
+--next
+--python bin/python.py
+
+--next
+--cpp bin/cpp

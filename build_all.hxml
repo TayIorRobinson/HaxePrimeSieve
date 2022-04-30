@@ -1,0 +1,28 @@
+build_small.hxml
+
+--next
+--cppia bin/cppia.cppia
+
+--next
+--lua bin/lua.lua
+
+--next
+--php bin/php
+
+--next
+--cs bin/cs
+
+--next
+--jvm bin/jvm.jar
+
+--next
+--java bin/java
+
+--next
+--neko bin/neko.n
+
+--next
+--js bin/js.js
+
+--next
+--lua bin/lua.lua
